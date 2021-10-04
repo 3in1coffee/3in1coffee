@@ -6,6 +6,7 @@
 
 🌱 I am also learning to strengthen my Ruby on Rails skill and planning to learn more on Javascripts in the following order:
   - React & Redux;
+  - Node JS;
   - Three JS; and
   - p5 JS.
 
