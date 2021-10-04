@@ -1,4 +1,4 @@
-👋 Hi, I am @3in1coffee and am passionate about Technology :computer: and Economics :bank:.
+👋 Hi, I am Ray (@3in1coffee) and am passionate about Technology :computer: and Economics :bank:.
 
 :school_satchel: In October 2021, I graduated from Le Wagon Singapore Batch #691 Web Development course.
 
